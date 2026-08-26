@@ -1,8 +1,18 @@
-# robot-reminder-assistent
+# Reminder-assistent
 
 ## Overview
 
 Automation developed using Microsoft Power Automate to send notifications through Microsoft Teams based on data from an Excel spreadsheet.
+
+## Workflow Overview
+
+![Workflow](images/workFlow.png)
+
+## Teams Notification Example
+
+![Teams Notification](images/mensageflow..png)
+
+![Teams Notification](images/mensageflow.png)
 
 ## Technologies
 
